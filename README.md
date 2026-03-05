@@ -53,14 +53,122 @@ Worked with global teams at companies including **PayPal** (via Quantlytix Solut
 
 ---
 
-## 💼 Professional Experience
+## 📄 Resume / CV
 
-```
-🏢 PayPal (via Quantlytix Solutions)   →  Full-Stack Development · Fintech
-🏢 Aucust                              →  Full-Stack Development
-🏢 Wikisoft Technology                 →  Full-Stack Development
-🏢 Code Unity Technology               →  Full-Stack Development
-```
+<details>
+<summary><b>📋 Key Information</b></summary>
+
+<br/>
+
+| | |
+|---|---|
+| **Nationality** | Indian |
+| **Location** | Dubai, United Arab Emirates |
+| **Work Authorization** | Current UAE work permit · Open to EU visa sponsorship |
+| **Languages** | English (professional fluency) · Hindi (native) |
+| **Availability** | Immediate — no notice period required |
+| **Relocation** | Open to all European Union countries |
+| **Email** | ashishmaurya0408@gmail.com |
+| **Phone (UAE)** | +971-585701948 |
+| **Phone (India)** | +91-7068362624 |
+
+</details>
+
+<details open>
+<summary><b>💼 Professional Experience</b></summary>
+
+<br/>
+
+### 🟢 Senior Full-Stack Developer — Aucust
+> **Jan 2026 – Present** · Dubai, UAE
+
+- Led full-stack development of an automotive **SaaS platform** connecting a Next.js customer website to a Node.js backend and React operations dashboard, **reducing booking completion time by 40%**
+- Designed multi-channel **authentication system** — JWT sessions, Google OAuth 2.0, OTP via SMS & email — across 3 user roles (customers, mechanics, admins)
+- Built automated **real-time notification system** using Nodemailer and WhatsApp Business API for job status updates, invoice delivery, and booking confirmations
+- Managed **AWS EC2 production infrastructure** with NGINX reverse proxy and PM2 — consistent **99.9% uptime** with zero major incidents
+- Implemented **AWS S3** file storage with signed URLs; introduced Git branching strategy and PR review processes
+
+---
+
+### 🔵 Full-Stack Developer — PayPal (via Quantlytix Solutions)
+> **Dec 2024 – Dec 2025** · Remote, India
+
+- Developed a shared **TypeScript/JavaScript utility library** (npm-ready, fully typed, tree-shakeable) adopted by multiple PayPal teams — **reduced code duplication by 60%**
+- Built large-scale **Next.js** frontend features using SSR/SSG for high-traffic pages with critical SEO requirements
+- Designed **React Context API architecture** for shared auth state, feature flags, and user preferences across multiple product teams
+- Set up end-to-end **CI/CD pipeline** (GitHub Actions) with automated linting, Jest unit testing, and Cypress e2e testing — **85%+ code coverage** within 2 months
+- Cypress e2e suite caught **15+ critical bugs** in payment and checkout flows before production release
+- Integrated **AWS SES** with Nodemailer for transactional email; configured CloudWatch alarms for bounce rate monitoring
+
+---
+
+### 🟡 Frontend Developer — Wikisoft Technology
+> **Mar 2024 – Dec 2024** · Remote, India
+
+- Built a responsive **flight booking platform** in React.js with real-time search, fare comparison, and Axios API integration
+- Integrated **Google OAuth 2.0** authentication, improving sign-up conversion rate
+- Developed a reusable **Tailwind CSS component library** — accelerated feature delivery by **25–30%**
+- Worked in two-week **Agile sprints** with cross-functional backend and QA team
+
+---
+
+### 🟣 Full-Stack Developer — Code Unity Technology
+> **Jun 2021 – Mar 2024** · India
+
+- Started as backend developer building **Node.js/Express.js APIs**, progressed to own infrastructure and system architecture decisions over 3 years
+- Led migration from monolithic app to **Docker-based microservices architecture**
+- Optimised **PostgreSQL queries** for reporting feature with 10M+ rows through strategic indexing and query rewrites
+- Deployed **AWS CloudFront CDN + S3** — reduced median page load time by **35%** for international users
+- **Mentored 2 junior developers** on TypeScript best practices over 18 months — **25% reduction** in production defects
+
+</details>
+
+<details>
+<summary><b>🛡️ Technical Skills (Detailed)</b></summary>
+
+<br/>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL |
+| **Frontend** | React.js, React 19, Next.js (SSR/SSG), Tailwind CSS, Context API, React Testing Library |
+| **Backend** | Node.js, Express.js, RESTful APIs, OpenAPI, JSON Schema, Microservices, API Integration |
+| **Databases** | PostgreSQL, MongoDB, Redis, MySQL — query optimisation, indexing, schema design |
+| **Cloud** | AWS (EC2, S3, Lambda, CloudFront, SES, CloudWatch), Docker, NGINX, PM2 |
+| **Testing & QA** | Jest (unit), Cypress (e2e), TDD, 80%+ code coverage |
+| **DevOps & CI/CD** | GitHub Actions, GitFlow, automated pipelines, deployment automation |
+| **Security** | JWT, OAuth 2.0, RBAC, TLS/HTTPS, OTP authentication |
+| **Soft Skills** | Agile/Scrum, team leadership, code review, technical mentoring, stakeholder communication |
+
+</details>
+
+<details>
+<summary><b>🎓 Education</b></summary>
+
+<br/>
+
+| Degree | Institution |
+|---|---|
+| **B.Tech in Computer Science** | MIT University, India |
+| **Diploma in Computer Science** | Maharaja Agrasen Himalayan Garhwal University (MAHGU), India · 2019–2021 |
+
+</details>
+
+<details>
+<summary><b>🏆 Notable Outcomes</b></summary>
+
+<br/>
+
+| Impact | Details |
+|---|---|
+| **60% less code duplication** | TypeScript/JS utility library built for PayPal voluntarily adopted by multiple internal teams |
+| **85%+ test coverage** | Core library at PayPal within 2 months; Cypress caught 15+ critical payment bugs pre-production |
+| **40% faster bookings** | Automotive SaaS platform at Aucust — redesigned booking flow in first quarter after launch |
+| **35% faster page loads** | CloudFront + S3 rollout at Code Unity for international users |
+| **99.9% uptime** | AWS production infrastructure at Aucust — zero significant outages since go-live |
+| **25% fewer defects** | Junior developer mentoring programme at Code Unity over 18 months |
+
+</details>
 
 ---
 
